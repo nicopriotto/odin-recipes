@@ -28,19 +28,14 @@ h1 {
 
 .item {
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-    border: 5px solid black;
     padding: 5px;
     text-align: center;
     list-style: none;
-    display: inline;
-    float: left;
     margin: auto;
 }
-/* Falta centrarlos */
 
 .list {
-    margin: auto;
-    width: 100%;
+    display: flex;
 }
 
 li {
