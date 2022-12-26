@@ -1,0 +1,56 @@
+* {
+    background-color: antiquewhite;
+}
+
+h1 {
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 50px;
+    font-weight: bolder;
+}
+
+.img {
+    width: 40%;
+    height: auto;
+    border: 5px solid rgb(24, 18, 18);
+    margin-right: auto;
+    margin-left: auto;
+    display: block;
+}
+
+.intro {
+    margin-left: 15px;
+    text-decoration: underline dotted;
+}
+.text {
+    font-size: 25px;
+}
+
+.item {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    border: 5px solid black;
+    padding: 5px;
+    text-align: center;
+    list-style: none;
+    display: inline;
+    float: left;
+    margin: auto;
+}
+/* Falta centrarlos */
+
+.list {
+    margin: auto;
+    width: 100%;
+}
+
+li {
+    font-size: 20px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.button {
+    font-size: 25px;
+    margin-bottom: 50px;
+    margin-top: 30px;
+    text-align: center;
+}
